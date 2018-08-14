@@ -1,3 +1,6 @@
 #Ignorando pastas: material base e outros
 Material base/
 outros/
+
+#Ignorando arquivos .doc:
+.doc
